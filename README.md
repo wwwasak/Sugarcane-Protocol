@@ -1,4 +1,4 @@
-Hi guys,
+Hi guys,:wink:
 
 <a name="home">
 I'm glad to have had the opportunity to introduce this Sugarcane Protocol fitness training App. Below is the structure of the contents:</a>
