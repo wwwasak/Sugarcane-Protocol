@@ -38,7 +38,7 @@ I'm glad to have had the opportunity to introduce this Sugarcane Protocol fitnes
 
 My app is built on React Native, a cross-platform framework for developing mobile applications using JavaScript and React. It enables developers to write code once and deploy it across both iOS and Android platforms, saving time and effort. It utilizes React for constructing user interfaces on mobile devices while using JavaScript as a bridge to connect different native building languages of various mobile systems. So, for those of us who already have a foundation in React and JavaScript, this is the fastest way to advance in mobile app development.
 
-Because of my personal interest in fitness and having seen a fitness training method called the Sugarcane Protocol discussed by scientific experts Andrew Huberman and Andy Galpin on YouTube, I wanted to create an app that would allow me to easily track relevant records during my workouts at the gym. This plan primarily requires a timer and a notepad to record the time and distance of each exercise round. The functionality isn't complicated and can showcase basic syntax.
+Because of my personal interest in fitness and having seen a fitness training method called the [Sugarcane Protocol](https://www.youtube.com/watch?v=oNkDA2F7CjM&t=11505s) discussed by scientific experts Andrew Huberman and Andy Galpin on YouTube, I wanted to create an app that would allow me to easily track relevant records during my workouts at the gym. This plan primarily requires a timer and a notepad to record the time and distance of each exercise round. The functionality isn't complicated and can showcase basic syntax.
 
 It's important to note that while there's still plenty of room for improvement in this app, it already adequately fulfills its recording function. You can also try out this plan at the gym, but please avoid inputting data types beyond the specified requirements; I haven't implemented input restrictions yet LOL. However, I'll continue to refine this app and add additional options for progressive training in the future.
 [Home](#home)
@@ -54,17 +54,13 @@ For this project, my development environment is based on EXPO. EXPO provides a s
 0. First, you need to visit [Expo](https://expo.dev/) and create an account.
 1. After creating an account, add a new "snack" (a term used in EXPO for projects).
 2. Once you're in the new snack, navigate to the "Project" section on the left side and click on "Import Git Repository."
-3. From there, import my repository, and you'll be able to see the app I've created.
+3. From there, import my [git repository](https://github.com/wwwasak/Sugarcane-Protocol), and you'll be able to see the app I've created.
 
-```
-import React from 'react';
-import { Button } from 'antd';
-
-```
+![alt text](image.png)
 
 ### For test
 
-On the right side of the page, you can test the software using your own mobile device or a virtual mobile device provided by a server. I recommend downloading Expo on your own mobile device and scanning the QR code on the right side of the page to connect your device for testing. (Please note that for iOS, you'll need to use the built-in camera on your phone to scan the QR code and access EXPO.)[Home](#home)
+On the right side of the page, you can test the software using your own mobile device or a virtual mobile device provided by a server. I recommend downloading `Expo Go` on your own mobile device and scanning the QR code on the right side of the page to connect your device for testing. (Please note that for iOS, you'll need to use the built-in camera on your phone to scan the QR code and access EXPO.)[Home](#home)
 
 ## <a name="ch3">Function introduction</a>
 
