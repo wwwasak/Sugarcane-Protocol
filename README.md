@@ -60,7 +60,7 @@ For this project, my development environment is based on EXPO. EXPO provides a s
 
 ### For test
 
-On the right side of the page, you can test the software using your own mobile device or a virtual mobile device provided by a server. I recommend downloading `Expo Go` on your own mobile device and scanning the QR code on the right side of the page to connect your device for testing. (Please note that for iOS, you'll need to use the built-in camera on your phone to scan the QR code and access EXPO.)[Home](#home)
+On the right side of the page, you can test the software using your own mobile device or a virtual mobile device provided by a server(Please make sure you have opened the project on the web end before testing). I recommend downloading `Expo Go` on your own mobile device and scanning the QR code on the right side of the page to connect your device for testing. (Please note that for iOS, you'll need to use the built-in camera on your phone to scan the QR code and access `Expo Go`.)You can also choose to use the cloud-based Android and iOS phones provided by `Expo` for testing, but there might be queues due to high usage.[Home](#home)
 
 ## <a name="ch3">Function introduction</a>
 
