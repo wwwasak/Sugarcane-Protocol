@@ -210,7 +210,7 @@ if(round3Distance>=round1Distance){
 ```
 [Home](#home)
 ### <a name="ch3_10">FinishView.js - Save your recent training data and view all saved records </a>
-In this page, you can save the training data for this session in the `records` section below. You can also delete all records at once. First, I'll store the previous training data in a `record`, then I'll use `syncStorage.js` to save it in `localStorage`. We'll use `useEffect` to load the local records data when the component is loaded and automatically save new data when `records` change.
+In this page, you can save the training data for this session in the `records` section below. You can also delete all records at once. First, store the previous training data in a `record`, then use `syncStorage.js` to save it in `localStorage`. Use `useEffect` to load the local records data when the component is loaded and automatically save new data when `records` change.
 
 Note that the functions for clicking options A and B are currently placeholders and will be filled in later.
 ```
